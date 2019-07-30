@@ -20,8 +20,8 @@
   <services>
     <service>
       <name>SIMBA</name>
-      <displayName>Simba: PiSys's query layer</displayName>
-      <comment>A SparkSQL driver of homogenous datasources</comment>
+      <displayName>PiSys-Simba</displayName>
+      <comment>A SparkSQL driver of homogenous datasources. PiSys's query layer</comment>
       <version>1.0</version>
       <components>
         <component>
