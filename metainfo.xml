@@ -35,9 +35,10 @@
             <timeout>600</timeout>
           </commandScript>
         </component>
+      </components>
       <requiredServices>
-            <service>ZEPPELIN</service>
-            <service>SPARK2</service>
+        <service>ZEPPELIN</service>
+        <service>SPARK2</service>
       </requiredServices>
       <osSpecifics>
         <osSpecific>
